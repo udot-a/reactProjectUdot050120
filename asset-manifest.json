@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09d75673.chunk.css",
+    "main.js": "/static/js/main.8ed86978.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c20a87d2.js",
+    "static/css/2.8d392223.chunk.css": "/static/css/2.8d392223.chunk.css",
+    "static/js/2.356a265c.chunk.js": "/static/js/2.356a265c.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.72de68298000dc3145dc2d32f716562f.js": "/precache-manifest.72de68298000dc3145dc2d32f716562f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.356a265c.chunk.js.LICENSE": "/static/js/2.356a265c.chunk.js.LICENSE",
+    "static/media/404.png": "/static/media/404.8c35d0d2.png",
+    "static/media/about.jpg": "/static/media/about.920c39f0.jpg",
+    "static/media/banner_575x246-575x246.jpg": "/static/media/banner_575x246-575x246.39a899f0.jpg",
+    "static/media/del_item.png": "/static/media/del_item.9fc28f46.png",
+    "static/media/logo.jpg": "/static/media/logo.2af97ed5.jpg",
+    "static/media/noimage.png": "/static/media/noimage.8dc2c281.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c20a87d2.js",
+    "static/css/2.8d392223.chunk.css",
+    "static/js/2.356a265c.chunk.js",
+    "static/css/main.09d75673.chunk.css",
+    "static/js/main.8ed86978.chunk.js"
+  ]
+}
